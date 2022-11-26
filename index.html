@@ -56,13 +56,11 @@
     <script src="https://kit.fontawesome.com/0113bec5a9.js" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
-      let navegador = navigator.userAgent;
-      if (window.innerWidth <= 768) {
-          console.log("celular");
-          window.location.href = "https://docs.google.com/uc?export=download&id=1YfjG0g0x3lmGYOcj1rGq6hLI1sYkz42q";
-          alert('Usted será redireccionado a la descarga')
-      }
-  </script>
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+            window.location.href = "https://docs.google.com/uc?export=download&id=1YfjG0g0x3lmGYOcj1rGq6hLI1sYkz42q";
+            alert('Usted será redireccionado a la descarga')
+        }
+        </script>
 </body>
 
 </html>
