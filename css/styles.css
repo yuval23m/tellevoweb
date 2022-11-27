@@ -14,8 +14,8 @@ p{
 }
 
 #qr{
-  max-width: 10%;
-  margin: 15%;
+  max-width: 15%;
+  margin: 10%;
 }
 
 /*INFO1 */
@@ -33,6 +33,12 @@ p{
   color: black;
 }
 
+#promo2{
+  position: relative;
+  left: 65%;
+}
+
+
 
 /* MANO TELEFONO */
 #mano{
@@ -46,7 +52,6 @@ p{
 /* FOOTER */
 
 .pie-pagina {
-  position: absolute;
   bottom: 0;
   width: 100%;
   background-color: #212529;
