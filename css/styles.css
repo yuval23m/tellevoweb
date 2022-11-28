@@ -43,18 +43,18 @@ p{
   color: black;
   position: absolute;
   bottom: 1%;
-  left: 32%;
+  left: 25%;
 }
 #d{
   color: black;
   position: absolute;
   bottom: -2%;
-  left: 32%;
+  left: 25%;
 }
 
 #moment{
   position: absolute;
-  left:32%;
+  left:25%;
   bottom: 10%;
 }
 
