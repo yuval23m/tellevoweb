@@ -24,7 +24,7 @@ p{
 #info1{
   position: absolute;
   top: 27%;
-  right: 30%;
+  left: 25%;
 }
 
 #a{
@@ -61,43 +61,43 @@ p{
 #e{
   color: black;
   position: absolute;
-  left: 20%;
+  left: 10%;
   bottom: -65%;
 }
 #f{
   color: black;
   position: absolute;
-  left: 20%;
+  left: 10%;
   bottom: -70%;
 }
 #pensada{
   position: absolute;
-  left: 20%;
+  left: 10%;
   bottom: -55%;
 }
 
 #g{
   color: black;
   position: absolute;
-  left: 37%;
-  bottom: -130%;
+  left: 25%;
+  bottom: -110%;
 }
 #h{
   color: black;
   position: absolute;
-  left: 37%;
-  bottom: -135%;
+  left: 25%;
+  bottom: -115%;
 }
 #i{
   color: black;
   position: absolute;
-  left: 37%;
-  bottom: -140%;
+  left: 25%;
+  bottom: -120%;
 }
 #entender{
   position: absolute;
-  left: 37%;
-  bottom: -120%;
+  left: 25%;
+  bottom: -100%;
 }
 /* MANO TELEFONO */
 #mano{
