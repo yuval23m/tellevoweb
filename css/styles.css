@@ -1,6 +1,8 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Righteous', cursive;
+
 }
 
 body {
@@ -20,7 +22,6 @@ p{
 
 /*INFO1 */
 #info1{
-  font-family: 'Rubik Distressed', cursive;
   position: absolute;
   top: 27%;
   right: 30%;
@@ -38,8 +39,66 @@ p{
   left: 65%;
 }
 
+#c{
+  color: black;
+  position: absolute;
+  bottom: 1%;
+  left: 32%;
+}
+#d{
+  color: black;
+  position: absolute;
+  bottom: -2%;
+  left: 32%;
+}
 
+#moment{
+  position: absolute;
+  left:32%;
+  bottom: 10%;
+}
 
+#e{
+  color: black;
+  position: absolute;
+  left: 20%;
+  bottom: -65%;
+}
+#f{
+  color: black;
+  position: absolute;
+  left: 20%;
+  bottom: -70%;
+}
+#pensada{
+  position: absolute;
+  left: 20%;
+  bottom: -55%;
+}
+
+#g{
+  color: black;
+  position: absolute;
+  left: 37%;
+  bottom: -130%;
+}
+#h{
+  color: black;
+  position: absolute;
+  left: 37%;
+  bottom: -135%;
+}
+#i{
+  color: black;
+  position: absolute;
+  left: 37%;
+  bottom: -140%;
+}
+#entender{
+  position: absolute;
+  left: 37%;
+  bottom: -120%;
+}
 /* MANO TELEFONO */
 #mano{
   max-width: 30%;
@@ -56,7 +115,8 @@ p{
   width: 100%;
   background-color: #212529;
   opacity: 85%;
-  font-family: 'Rubik Distressed', cursive;
+  font-family: 'Righteous', cursive;
+
 }
 
 .pie-pagina .grupo-1 {
